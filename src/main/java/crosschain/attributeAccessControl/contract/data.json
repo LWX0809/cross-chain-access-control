@@ -1,0 +1,16 @@
+{
+  "Vehicle_ID":"515",
+  "Frame_ID": "2330",
+  "Total_Frames": "1123",
+  "Global_Time": "1118848075000",
+  "Local_X": "30.034",
+  "Local_Y": "188.062",
+  "Global_X": "6451203.729",
+  "Global_Y": "1873252.549",
+  "v_length": "13",
+  "v_Width": "6.9",
+  "v_Class": "2",
+  "v_Vel": "23.31",
+  "Lane_ID": "3",
+  "Location": "us-101"
+}
